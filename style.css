@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(53, 142, 243);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .container {
+    background-color: rgb(140, 213, 247);
+    height: 600px;
+    width: 400px;
+    margin-top: 20px;
+  }
+
+  .tarefa {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #lista-tarefas {
+    margin-top: 18px;
+  }
